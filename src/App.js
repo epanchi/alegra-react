@@ -34,7 +34,7 @@ function App() {
 
     const handleSubmit = async (e) => {
       e.preventDefault();
-      const response = await fetch('http://52.90.205.173/api/order/', {
+      const response = await fetch('http://api.edisonpanchi.com/api/order/', {
         method: 'POST',
         body: JSON.stringify(),
         headers: {
