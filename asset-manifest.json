@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alegra-react/static/css/main.1bb0353c.css",
+    "main.js": "/alegra-react/static/js/main.2482045e.js",
+    "static/js/787.f9ab68af.chunk.js": "/alegra-react/static/js/787.f9ab68af.chunk.js",
+    "index.html": "/alegra-react/index.html",
+    "main.1bb0353c.css.map": "/alegra-react/static/css/main.1bb0353c.css.map",
+    "main.2482045e.js.map": "/alegra-react/static/js/main.2482045e.js.map",
+    "787.f9ab68af.chunk.js.map": "/alegra-react/static/js/787.f9ab68af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bb0353c.css",
+    "static/js/main.2482045e.js"
+  ]
+}
