@@ -2,7 +2,7 @@
 // Offset: number of records we have to skip before selecting records
 
 export const getAllData = async (limit = 10, offset = 0) => {
-    let api_url = `http://alegra.test/api/order/`;
+    let api_url = `http://52.90.205.173/api/order/`;
     try {
       const response = await fetch(api_url);
       const data = await response.json();
